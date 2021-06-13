@@ -1,1 +1,1 @@
-https://upbeat-booth-2a3023.netlify.app
+https://reverent-pasteur-c97570.netlify.app
